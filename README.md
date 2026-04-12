@@ -4,7 +4,7 @@ Welcome to my Github profile! I'm passionate about Roblox game development, Blit
 
 ## About me
 
-- I'm currently working on a learned iterative solver.
+- I'm currently working on [redacted]. I'll show later.
 - I'm currently learning older versions of Torch (and by extension PyTorch) + the limitations for a future project.
 - I'm NOT looking to collaborate on anything, not really free right now.
 - Reach me at: x5tne@lunarai.pp.ua, but read [this](https://lunarai.pp.ua/whoami.html) first.
