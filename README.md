@@ -18,7 +18,7 @@ Welcome to my Github profile! I'm passionate about Polytoria game development, B
 
 Repos private.
 
-## Top lanugages
+## Top languages
 
 Repos private.
 
