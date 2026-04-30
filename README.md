@@ -1,6 +1,6 @@
 # Yo, I'm X5TNE
 
-Welcome to my Github profile! I'm passionate about Roblox game development, Blitz3D, and AI. 
+Welcome to my Github profile! I'm passionate about Polytoria game development, Blitz3D, and AI. 
 
 ## About me
 
