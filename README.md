@@ -12,4 +12,4 @@ Welcome to my Github profile! I'm passionate about Polytoria game development, B
 
 ## Tech stack
 
-![Lua, OG Torch, Python, Somewhat PyTorch](https://skillicons.dev/icons?i=lua,torch,python,pytorch)
+![Lua, PHP, Python](https://skillicons.dev/icons?i=lua,php,python)
